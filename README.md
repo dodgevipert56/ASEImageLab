@@ -5,7 +5,7 @@
 - We now modify the README.md file and are going to update the repo
 
 ```
-git commit -am "updated the readme.md"
+git commit -am "updated the README.md"
 git push origin master
 
 ```
